@@ -8,3 +8,7 @@
 - Cada 4 columnas existe un patron que sigue una secuencia: 0101 2323 0101 2323 4545 6767 4545 6767, etc.
 
 
+2. Entiendo que dependiendo la fila y la columna que se me proporciona, en caso de no encontrar las coordenadas en el dataset
+seria realizar un algoritmo que me permita generar una secuencia apartir del dataset y asi retornar un valor.
+
+
